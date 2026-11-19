@@ -18,8 +18,6 @@ Convert plain text files into Excel (.xlsx) and CSV (.csv) formats without requi
 - Data Preview Table
 - Positive Transaction Amount Formatting
 - Automatic Transaction Amount Total
-- Automatic ITC Income Total
-- Automatic Bank Income Total
 - Excel Number Formatting (0.00)
 - Preserve Original Transaction Order
 - Large File Processing Support
