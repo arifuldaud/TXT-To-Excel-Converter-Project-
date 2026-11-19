@@ -32,6 +32,7 @@ Convert plain text files into Excel (.xlsx) and CSV (.csv) formats without requi
 - CSS3
 - JavaScript (ES6+)
 - SheetJS (xlsx)
+- Tailwind Css Modern 
 
 ## Privacy
 
